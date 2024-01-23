@@ -21,7 +21,6 @@
 
 
 <p float="left">
-    <img src=" height="500" width="250" hspace="10" />
-    <img src="https://github.com/Ushanshi-Sharma/Coffee-Sales-Excel-Dashboard/assets/154740255/c4bce046-8016-459d-83a8-4f97102ba046.jpg" height="500"  />
+       <img src="https://github.com/Ushanshi-Sharma/Coffee-Sales-Excel-Dashboard/assets/154740255/c4bce046-8016-459d-83a8-4f97102ba046.jpg" height="500"  />
    
 </p>
